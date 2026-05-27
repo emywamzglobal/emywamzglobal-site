@@ -26,13 +26,14 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 1200px;
+  max-width: 600px;
   margin: auto;
   padding: 0 24px;
 }
 
 .nav-logo img {
-  width: 180px;
+  width: 200px;
+  height: auto;
 }
 
 .nav-links {
