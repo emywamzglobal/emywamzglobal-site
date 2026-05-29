@@ -15,7 +15,7 @@ body {
 
 nav {
   background: white;
-  padding: 18px 40px;
+  padding: 12px 40px;
   position: sticky;
   top: 0;
   z-index: 1000;
@@ -33,7 +33,7 @@ nav {
 }
 
 .nav-logo img {
-  width: 200px;
+  width: 120px;
   height: auto;
 }
 
